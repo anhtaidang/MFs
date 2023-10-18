@@ -1,0 +1,19 @@
+@import "src/assets/scss/common/common";
+@import "src/assets/scss/pre-antd";
+
+.test-image {
+  background-image: url('../images/testimage.png');
+  width: 500px;
+  height: 200px;
+}
+
+.container-fluid {
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.container {
+  width: 1200px;
+  margin: 0px auto;
+  margin-bottom: 20px;
+}
